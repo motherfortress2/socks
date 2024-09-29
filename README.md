@@ -5,4 +5,4 @@ socks is a fun side project i'm working on along side my [wand](https://github.c
 ### Preview
 ![In-game preview](https://i.imgur.com/FqjM7Gf.png)
 ### Getting Started
-For help on setting up a Slippers server see the [wiki](https://github.com/wizguin/slippers/wiki).
+For help on setting everything else up see the [wiki](https://github.com/motherfortress2/socks/wiki).
